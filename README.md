@@ -15,7 +15,7 @@ This lab teaching Python programming in the context of AI development — data h
 |---|---|---|
 | [lab01](./lab01) | Building Your AI Development Environment | 1 |
 | [lab02](./lab02) | Python 2 & Your First Module | 2 |
-| [lab03](lab03) | Environments, Project Structure & Reliable | 3 |
+| [lab03](.lab03) | Environments, Project Structure & Reliable | 3 |
 
 ## How to use this repo
 
