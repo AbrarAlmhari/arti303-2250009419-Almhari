@@ -1,7 +1,5 @@
-"""Helpers for cleaning up messy text fields."""
-
+"""Helpers for cleaning up text, such as student names."""
 
 def clean_name(raw):
-    """Strip, collapse inner whitespace, and title-case a name."""
-    collapsed = " ".join(raw.split())
-    return collapsed.title()
+    """Return the name with extra spaces removed, in title case."""
+    return " ".join(raw.split()).title()
