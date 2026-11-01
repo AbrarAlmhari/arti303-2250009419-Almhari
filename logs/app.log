@@ -1,6 +1,0 @@
-2026-11-02 00:48:24,701 | INFO     | Logger ready
-2026-11-02 00:48:24,707 | WARNING  | This is what a warning looks like
-2026-11-02 00:48:41,674 | WARNING  | Skipped Faisal Alharbi: invalid GPA 'N/A'
-2026-11-02 00:48:41,674 | WARNING  | Skipped Omar Alshehri: invalid GPA ''
-2026-11-02 00:48:41,677 | INFO     | Loaded 3 students from data/students_messy.csv
-2026-11-02 00:48:44,981 | ERROR    | File not found: data/nope.csv
