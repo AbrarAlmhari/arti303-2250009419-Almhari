@@ -23,7 +23,7 @@ This repository contains coursework, laboratory exercises, assignments, and proj
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AbrarAlmhari/arti303.git
+git https://github.com/AbrarAlmhari/arti303-2250009419-Almhari
 cd arti303
 ```
 
